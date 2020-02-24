@@ -1,4 +1,4 @@
-![Revenue](Images/python_img.JPG)
+![Revenue](Images/python_img.PNG)
 
 PyBank
 
