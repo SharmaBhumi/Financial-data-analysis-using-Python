@@ -1,8 +1,7 @@
 # python-challenge
-Repo to submit Python Homework
 -----------------------------------
 
-PyBank
+## PyBank
 
 ![Revenue](Images/revenue-per-lead.PNG)
 
@@ -63,3 +62,4 @@ PyBank
   ```
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
