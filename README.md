@@ -1,5 +1,3 @@
-![Revenue](Images/python_img.PNG)
-
 PyBank
 
 Python script created for analyzing the financial records given in budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
