@@ -1,6 +1,6 @@
 ![Fantasy](Images/python_img.PNG)
 
-PyBank
+## PyBank
 
 Python script created for analyzing the financial records given in budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 Python script analyzes the records to calculate each of the following:
@@ -11,7 +11,7 @@ Python script analyzes the records to calculate each of the following:
 * The greatest decrease in losses (date and amount) over the entire period
 
 
-PyPoll
+## PyPoll
 
 Python script created for analyzing poll data given in election_data.csv. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 Python script analyzes the votes and calculates the following:
@@ -23,5 +23,5 @@ Python script analyzes the votes and calculates the following:
 * The winner of the election based on popular vote.
 
 packages and Tools used:
-csv,os
-python
+- csv,os
+- python
